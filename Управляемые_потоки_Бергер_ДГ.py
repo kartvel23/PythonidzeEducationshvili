@@ -1,0 +1,12 @@
+print(6*6-1==8+1)
+#False
+print(13-7!=3*2+1)
+#True
+print(3*(2-1)==4-1)
+#True
+print(6*6-1>=8+1)
+#True
+print(13-7<=3*2+1)
+#True
+print(3*(2-1)>4-1)
+#False
